@@ -4,8 +4,8 @@ using namespace std;
 
 int main() {
 
-    auto lang = "C++";
-    cout << "Hello World and welcome to " << lang << "!\n";
-
+    cout << "Hello World!" << endl;
+    cout << "\"\"" << endl;
+    cout << "\\" << endl;
     return 0;
 }
